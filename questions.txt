@@ -12,9 +12,13 @@ What do you think the program did with what you typed?
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
 
+    This file contains an additional command at the end. 
+
 What do you think the color = input() will do? 
+    I believe this will print the word that I enter at the end of the variable "color" 
 
 Run the program in the terminal and answer the question. Did the program do what you expected?
+    The program reprinted the answer I entered, which is similar to what I expected. 
 
 
 
