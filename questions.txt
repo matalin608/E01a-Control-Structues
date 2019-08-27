@@ -24,13 +24,19 @@ Run the program in the terminal and answer the question. Did the program do what
 
 Open main3.py. Before running it, describe how this is different than main2.py. 
 
+    This file contains more additional commands, which appear to be conditional. 
+
 What is happening on lines 11–14? 
+    The program appears to be presenting a condition that will give back an answer depending on what I enter. 
 
 Why are lines 12 and 14 indented? 
+    I am unsure, but my best guess is for human readability. 
 
 Run the program and answer the question. What happens if you don’t capitalize Red? 
+    If I don't capitalize red, then the program replies "Sorry, try again," 
 
 What does this tell you about "color"?
+   I believe that Color is a variable that can be manipulated if conditions are presented. 
 
 
 
