@@ -41,11 +41,13 @@ What does this tell you about "color"?
 
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
+    This offers another possible solution to the question posed by the code.
 
 What problem is this trying to solve? 
+    Before, the correct answer could be entered, but the program would give an error message if the answer was not properly capitalized. Here, the answer can be entered multtiple ways.
 
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
-
+    The program shows "Sorry, try again," as it did before. 
 
 
 Open main5.py. What do you expect line 11 to do? 
