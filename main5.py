@@ -11,4 +11,4 @@ color = input("What is my favorite color? ")
 if (color.lower() == 'red'):
     print('Correct!')
 else:
-    print('Sorry, try again.')
+    print('Sorry, try again.') 
