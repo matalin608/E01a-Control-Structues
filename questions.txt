@@ -81,7 +81,7 @@ Run the program and answer the question.
 
 
 Open main8.py. What is the purpose of line 11?
-    The added "!" shows that there is an additional command in this line, but I am unsure of the command's purpose. 
+    The added "!" shows that while color is not equal to red, but rather other words or colors, certain phrases will be put out in reply to certain answers being put in.  
 
 Why are lines 12–19 indented? 
     These lines are all sub-commands of the "while" command. 
@@ -94,10 +94,11 @@ Make that change and run the program again. To end any Python program, you can t
 
 
 Open main9.py. What is happening on line 12? 
-    
+    on line 12, the program is commanding that while color is not equal to red, certain answers will be put out. 
 What is the purpose of “count”? 
-
+    the count command recognizes how many times an answer is input, then returns a message at the end with that number attached. 
 What is happening on line 22? 
+    This is the line that calls back the number which was recorded with "count."
 
 Run the program.
 
